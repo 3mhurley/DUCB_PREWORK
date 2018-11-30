@@ -1,0 +1,15 @@
+.hmtl
+Reorganized tabbed formatting
+Added heading1 tag at line 19
+Added paragraph elements to four paragraphs at line 43-54
+Fixed link of wikipedia article at line 53
+Added open and close carrots around image class at line 62
+Added list item tags to bullet points at line 87-91
+Changed color text to match button id at line 104-106
+Changed script source to logic.js
+
+.js
+Reorganized tabbed formatting
+Corrected array so that each item was a separate string
+Added quotes around css color pink
+Added quotes around click functions for grow and shrink
